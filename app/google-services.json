@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839278159356",
+    "firebase_url": "https://vesitsports-7cdf3.firebaseio.com",
+    "project_id": "vesitsports-7cdf3",
+    "storage_bucket": "vesitsports-7cdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839278159356:android:b277abf84a287e9d",
+        "android_client_info": {
+          "package_name": "com.example.acer.vesitsports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839278159356-enoaf00rligkgag5senahu2qg0enmdq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.vesitsports",
+            "certificate_hash": "ec8eaab0e8060d1c2d2d01d2a54b760e1eb9419a"
+          }
+        },
+        {
+          "client_id": "839278159356-2i6mi8185l7rlqqka49ledrn8itpfd9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsG7pLca8hni0dJJP1Ed5S5IOZShKcZ0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839278159356-2i6mi8185l7rlqqka49ledrn8itpfd9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
